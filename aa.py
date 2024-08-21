@@ -1,18 +1,2 @@
-        id      
-        title
-        description
-        tags
-        keywords
-        locations
-        welfare
-        created_at
-        ended_at
-        category
-        years_of_experience
-        level
-        skills
-        language
-        nationality
-        salary_range
-        url
-        unique_id
+aa = dict()
+
