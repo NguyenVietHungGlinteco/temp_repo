@@ -6,3 +6,5 @@ class JobGroup:
     
     def add_job(self, job: Job):
         self.job_group.append(job)
+    
+

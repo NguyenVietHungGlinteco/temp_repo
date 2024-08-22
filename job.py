@@ -12,7 +12,7 @@ class Job:
         self.created_at = kwargs.get('created_at')
         self.ended_at = kwargs.get('ended_at')
         self.category = kwargs.get('category')
-        self.years_of_experience = kwargs.get('years_of_experience', int)
+        self.years_of_experience = kwargs.get('years_of_experience')
         self.level = kwargs.get('level')
         self.skills = kwargs.get('skills', [])
         self.language = kwargs.get('language')
@@ -57,7 +57,9 @@ class Job:
 
         if remaining_time_split[0] == 'ngày':
             end_date = current_date + timedelta(days=int(remaining_time_split[1]))
-        elif remaining_time_split[0] == 'giờ':
+        # Cần kiểm tra
+        # elif remaining_time_split[0] == 'giờ': 
+        else:
             end_date = current_date
         self.ended_at = str(end_date)
 
@@ -69,7 +71,10 @@ class Job:
             if job_type_label == 'NGÀY ĐĂNG':
                 self.created_at = '-'.join(job_info.split('/'))
             if job_type_label == 'SỐ NĂM KINH NGHIỆM TỐI THIỂU':
-                self.years_of_experience = int(job_info)
+                if job_info.isnumeric():
+                    self.years_of_experience = int(job_info)
+                else:
+                    self.years_of_experience = job_info
             if job_type_label == 'CẤP BẬC':
                 self.level = job_info
             if job_type_label == 'KỸ NĂNG':

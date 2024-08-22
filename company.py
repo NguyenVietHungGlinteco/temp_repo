@@ -1,6 +1,6 @@
 class Company:
     def __init__(self, **kwargs):
-        self.id = kwargs.get('id', int)
+        self.id = kwargs.get('id')
         self.name = kwargs.get('name')
         self.description = kwargs.get('description')
         self.industry = kwargs.get('industry')

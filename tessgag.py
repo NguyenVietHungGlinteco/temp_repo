@@ -33,46 +33,10 @@ company.get_company_detail(soup)
 company.show_company_detail()
 company_a = company.__dict__
 
-
-def get_job(url, job_group):
-    # Gửi yêu cầu GET tới trang web
-    response = requests.get(url)
-    response.raise_for_status()  # Kiểm tra lỗi HTTP
-
-    # Phân tích HTML
-    soup = BeautifulSoup(response.text, 'html.parser')
-
-    job = Job()
-    job.get_job_detail(soup)
-    job_group.add_job(job.__dict__)
-
-job_grp = JobGroup()
-
-my = soup.find('div', id="ajax_cp_our_jobs_listing")  # Class có thể thay đổi, kiểm tra trên trang web
-jobs = my.find_all('h4')
-job_collection = []
-for job in jobs:
-    job_collection.append(job.find('a'))
-    print(len(job_collection))
-    # print(job.find('a')['href'])
-    get_job(job.find('a')['href'], job_grp)
-    print()
-
-
-
-
-
-job_dict = job_grp.__dict__
-
-company_recruitment = CompanyRecruitment(company_a, job_dict)
-
-company_recruitment_aaa = company_recruitment.__dict__
-
-json_data = json.dumps(company_recruitment_aaa, indent=4, ensure_ascii=False)
+print(company_a)
+json_data = json.dumps(company_a, indent=4, ensure_ascii=False)
 
 with open('v.json', 'w', encoding='utf-8') as f:
     f.write(json_data)
 
 print("Dữ liệu đã được xuất ra file data.json")
-
-print(job_grp)
