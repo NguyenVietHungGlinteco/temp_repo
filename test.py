@@ -1,35 +1,27 @@
 import requests
-from bs4 import BeautifulSoup
-from company import Company
-from job import Job
-from job_group import JobGroup
 import json
 
+# URL của API
+url = "https://ms.vietnamworks.com/company-profile/v1.0/company/search"
 
-def get_job(url):
-# url = 'https://www.vietnamworks.com/company/vnm'
-# url = 'https://www.vietnamworks.com/company/one-mount'
-# url = 'https://www.vietnamworks.com/chuyen-vien-cao-cap-kinh-doanh-giftcard--1813217-jv'
-# url = 'https://www.vietnamworks.com/chuyen-vien-cao-cap-quan-ly-quy-trinh-doanh-nghiep-1810966-jv'
-# url ='https://www.vietnamworks.com/senior-data-engineer--1797167-jv?utm_source_navi=CompanyProfile&utm_medium_navi=JobList&utm_campaign_navi=JobTitle&utm_content_navi=algolia'
 
-    # Gửi yêu cầu GET tới trang web
-    response = requests.get(url)
-    response.raise_for_status()  # Kiểm tra lỗi HTTP
+# Gửi yêu cầu GET tới API
+response = requests.get('https://www.vietnamworks.com/danh-sach-cong-ty')
+# response = requests.get(url)
 
-    # Phân tích HTML
-    soup = BeautifulSoup(response.text, 'html.parser')
+# Kiểm tra nếu yêu cầu thành công (HTTP status code 200)
+if response.status_code == 200:
+    # Phân tích dữ liệu JSON trả về
+    data = response.text
+    # print(len(data["data"]))
+    print(response.text)
+else:
+    print(f"Lỗi {response.status_code}")
 
-    job = Job()
-    job.get_job_detail(soup)
-    
-    # job.show_job_detail()
-    # job_dict = job.__dict__
-    # print(job_dict)
 
-    # json_data = json.dumps(job_dict, indent=4, ensure_ascii=False)
+json_data = json.dumps(data, indent=4, ensure_ascii=False)
 
-    # with open('data.json', 'w', encoding='utf-8') as f:
-    #     f.write(json_data)
+with open('company.json', 'w', encoding='utf-8') as f:
+    f.write(json_data)
 
-    # print("Dữ liệu đã được xuất ra file data.json")
+print("Dữ liệu đã được xuất ra file one_mount.json")

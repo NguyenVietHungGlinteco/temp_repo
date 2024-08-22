@@ -16,8 +16,8 @@ class Company:
 
     def get_company_description(self, soup):
         description = ''
-        company_description = soup.find('div',
-        class_='custom-story-item-content').find_all('div')
+        company_description = soup.find(
+            'div', class_='custom-story-item-content').find_all('div')
         for part_of_description in company_description:
             description += '\n'
             description += part_of_description.text

@@ -1,5 +1,6 @@
 from datetime import datetime, timedelta
 
+
 class Job:
     def __init__(self, **kwargs):
         self.id = kwargs.get('id')
@@ -20,7 +21,7 @@ class Job:
         self.salary_range = kwargs.get('salary_range')
         self.url = kwargs.get('url')
         self.unique_id = kwargs.get('unique_id')
-    
+
     def get_job_id(self, soup):
         pass
 
@@ -36,13 +37,13 @@ class Job:
     def get_job_welfare(self, soup):
         job_welfares = soup.find_all('div', class_='jJlmNs')
         for welfare in job_welfares:
-            welfare_key = welfare.find('p').text    
+            welfare_key = welfare.find('p').text
             welfare_detail = welfare.find('div', class_='fGxLZh').text
             self.welfare[welfare_key] = welfare_detail
 
     def get_job_locations(self, soup):
         self.locations = soup.find('div', class_='dBRwI').find('p').text
-  
+
     def get_job_keywords(self, soup):
         keyword_container = soup.find('div', class_='esrWRf')
         keyword_elements = keyword_container.find_all('button')
@@ -56,9 +57,10 @@ class Job:
         current_date = datetime.now().date()
 
         if remaining_time_split[0] == 'ngày':
-            end_date = current_date + timedelta(days=int(remaining_time_split[1]))
+            end_date = current_date + timedelta(
+                days=int(remaining_time_split[1]))
         # Cần kiểm tra
-        # elif remaining_time_split[0] == 'giờ': 
+        # elif remaining_time_split[0] == 'giờ':
         else:
             end_date = current_date
         self.ended_at = str(end_date)
@@ -78,7 +80,7 @@ class Job:
             if job_type_label == 'CẤP BẬC':
                 self.level = job_info
             if job_type_label == 'KỸ NĂNG':
-                self.skills = job_info.split(',')
+                self.skills = job_info.split(', ')
             if job_type_label == 'LĨNH VỰC':
                 self.category = job_info
             if job_type_label == 'NGÔN NGỮ TRÌNH BÀY HỒ SƠ':
@@ -89,7 +91,7 @@ class Job:
                 industry_element = job_type.find_all('span')
                 for industry in industry_element:
                     self.tags.append(industry.text)
-    
+
     def get_job_salary_range(self, soup):
         self.salary_range = soup.find('span', class_='iOaLcj').text
 
@@ -107,27 +109,3 @@ class Job:
         self.get_job_welfare(soup)
         self.get_job_salary_range(soup)
         self.get_job_url(soup)
-
-    def show_job_detail(self):
-        print(f"id: {self.id}")
-        print(f"title: {self.title}")
-        print(f"description: {self.description}")
-        print(f"tags: {self.tags}")
-        print(f"keywords: {self.keywords}")
-        print(f"locations: {self.locations}")
-        print(f"welfare: {self.welfare}")
-        print(f"created_at: {self.created_at}")
-        print(f"ended_at: {self.ended_at}")
-        print(f"category: {self.category}")
-        print(f"years_of_experience: {self.years_of_experience}")
-        print(f"level: {self.level}")
-        print(f"skills: {self.skills}")
-        print(f"language: {self.language}")
-        print(f"nationality: {self.nationality}")
-        print(f"salary_range: {self.salary_range}")
-        print(f"url: {self.url}")
-        print(f"unique_id: {self.unique_id}")
-
-
-
-        

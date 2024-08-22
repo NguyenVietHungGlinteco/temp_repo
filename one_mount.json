@@ -1,0 +1,490 @@
+{
+    "company": {
+        "id": null,
+        "name": "Tập đoàn vàng bạc đá quý DOJI",
+        "description": "Là Tập đoàn lớn nhất trên thị trường kinh doanh Vàng và Trang sức hiện nay, DOJI trải dài khắp 3 miền, có mặt tại các tỉnh thành lớn trong cả nước, đang tiếp tục khẳng định tên tuổi trên thị trường thế giới với kì tích đưa loại đá Ruby Sao Việt Nam trở nên nổi tiếng, được mệnh danh là “Ông Hoàng Ruby Sao”",
+        "industry": "Fashion/Jewelry",
+        "website": "http://tuyendung.doji.vn/",
+        "unique_id": null
+    },
+    "job": {
+        "job_group": [
+            {
+                "id": null,
+                "title": "Chánh Văn Phòng",
+                "description": "- Quản lý công tác chung của Văn phòng Tập đoàn- Thực hiện các công tác quan hệ đối nội, đối ngoại, tham dự các hội nghị, sự kiện khi được phân công.- Lên kế hoạch, bao quát, sắp đặt, tổ chức, điều phối các hoạt động nội chính của Tập đoàn (Sự kiện, Khánh tiết…)- Đôn đốc, nhắc nhở giám sát các Đơn vị/bộ phận thực hiện các nhiệm vụ, chỉ đạo của Ban Lãnh đạo.- Tham mưu, giúp việc cho Chủ tịch Tập đoàn.- Thực hiện các công tác khác theo chỉ đạo của Ban lãnh đạo Tập đoàn",
+                "tags": [
+                    "Hành Chính Văn Phòng",
+                    "Quản Lý Văn Phòng"
+                ],
+                "keywords": [
+                    "Hành Chính Văn Phòng",
+                    "Quản Lý Văn Phòng",
+                    "Thời trang/Trang sức",
+                    "Tiếng Anh",
+                    "Nghiệp Vụ Thư Ký",
+                    "Tập Đoàn Vàng Bạc Đá Quý DOJI",
+                    "Hà Nội"
+                ],
+                "locations": "5 Đường Lê Duẩn, Điện Biên, Ba Đình, Hanoi, Vietnam",
+                "welfare": {
+                    "Thưởng": "Thưởng Tết từ 1-5 tháng lương",
+                    "Chăm sóc sức khoẻ": "Được tham gia Khám sức khỏe định kỳ và An toàn lao động",
+                    "Giải thưởng": "Thưởng theo kết quả kinh doanh và nhiều chế độ thưởng đột xuất khác"
+                },
+                "created_at": "22-08-2024",
+                "ended_at": "2024-08-22",
+                "category": "Thời trang/Trang sức",
+                "years_of_experience": "Không yêu cầu",
+                "level": "Trưởng phòng",
+                "skills": [
+                    "Tiếng Anh",
+                    "Nghiệp Vụ Thư Ký"
+                ],
+                "language": "Bất kỳ",
+                "nationality": "Không hiển thị",
+                "salary_range": "Thương lượng",
+                "url": "https://www.vietnamworks.com/chanh-van-phong--1814233-jv",
+                "unique_id": null
+            },
+            {
+                "id": null,
+                "title": "Phó Phòng Công Nghệ Thông Tin và Hạ Tầng",
+                "description": "Quản lý:- Xây dựng quy chế, quy định, chính sách, quy trình nghiệp vụ CNTT và thực hiện chức năng giám sát các hoạt động CNTT                         - Cùng với Trưởng Phòng CNTT xây dựng định hướng, kế hoạch và chiến lước phát triển CNTT Tập đoàn theo từng giai đoạn               - Báo cáo gải pháp và đề xuất cho Ban Lãnh đạo đầu tư hiệu quả các hạ tầng CNTT phù hợp với mô hình của Tập đoàn           - Đào tạo nội bộ kiến thức quản trị, vận hành hệ thống CNTT và đào tạo người dùng kỹ năng khai thác tài nguyên CNTT được trang bị tại Tập đoàn- Quản lý nhóm làm việc trong phạm vi được giaoChuyên môn:- Có kinh nghiệm triển khai thực tế và quản lý, quản trị, vận hành tổng thể hệ thống CNTT cho các Doanh lớn.- Triển khai xây dựng hệ thống Server, Network, Storage, Backup, Security, Monitor, VMWARE- Có kiến thức và hiểu biết về các hệ thống SIEM, SOC, Antivirus, PAM                                   - Triển khai các dịch vụ trên nền tảng Windows Server, Linux- Quản trị, vận hành hệ thống Server dịch vụ và phần mềm như: Server SAP B1, Server SQL, DNS, AD, DHCP, FILE, EMAIL EXCHANGE, O365, WEBSITE, VEEAM, WSUS- Quản trị, vận hành các hệ thống Storage, Backup- Quản trị, vận hành, thiết lập các chính sách với Firewall Checkpoint, Fortinet- Theo dõi kiểm tra, đánh giá hiệu năng các Server và lập báo cáo hoạt động định kỳ.- Phối hợp triển khai tuân thủ các chính sách CNTT.- Hỗ trợ người dùng các vấn đề liên quan tới CNTT.",
+                "tags": [
+                    "Công Nghệ Thông Tin/Viễn Thông",
+                    "Quản Trị Cơ Sở Dữ Liệu"
+                ],
+                "keywords": [
+                    "Công Nghệ Thông Tin/Viễn Thông",
+                    "Quản Trị Cơ Sở Dữ Liệu",
+                    "Thời trang/Trang sức",
+                    "Network",
+                    "Bảo Mật Server",
+                    "IT Security",
+                    "Tập Đoàn Vàng Bạc Đá Quý DOJI",
+                    "Hà Nội"
+                ],
+                "locations": "Tòa nhà DOJI, Số 5 Lê Duẩn, Ba Đình, Hà Nội",
+                "welfare": {
+                    "Thưởng": "Thưởng Tết từ 1-5 tháng lương",
+                    "Chăm sóc sức khoẻ": "Được tham gia Khám sức khỏe định kỳ và An toàn lao động",
+                    "Giải thưởng": "Thưởng theo kết quả kinh doanh và nhiều chế độ thưởng đột xuất khác"
+                },
+                "created_at": "22-08-2024",
+                "ended_at": "2024-08-22",
+                "category": "Thời trang/Trang sức",
+                "years_of_experience": "Không yêu cầu",
+                "level": "Trưởng phòng",
+                "skills": [
+                    "Network",
+                    "Bảo Mật Server",
+                    "IT Security"
+                ],
+                "language": "Bất kỳ",
+                "nationality": "Không hiển thị",
+                "salary_range": "Thương lượng",
+                "url": "https://www.vietnamworks.com/pho-phong-cong-nghe-thong-tin-va-ha-tang--1814231-jv",
+                "unique_id": null
+            },
+            {
+                "id": null,
+                "title": "Phó Tổng Giám Đốc Vận Hành",
+                "description": "•\tQuản lý và chịu trách nhiệm về các hoạt động của Khối Vận hành, bao gồm các bộ phận: Phòng Hành chính Tổng hợp, Phòng Mua sắm tập trung, Phòng Kiểm soát và Thanh Tra Nội bộ, Phòng Kiểm toán, Phòng kỹ thuật, Phòng An ninh,…•\tNghiên cứu, tham mưu, xây dựng và triển khai hoạt động vận hành tập trung phù hợp với mô hình và chiến lược phát triển kinh doanh của Tập đoàn từng thời kỳ.•\tQuản trị quy trình, quy định vận hành của Tập đoàn.•\tTham mưu cho BLĐ các giải pháp vận hành hiệu quả, tối ưu chi phí.•\tĐại diện Tập đoàn làm việc với Đối tác, cơ quan, đoàn thể các công việc liên quan tới vận hành. Xây dựng các mối quan hệ với các doanh nghiệp, sở ban, ngành phục vụ công tác vận hành của doanh nghiệp.•\tThực hiện các công việc khác theo chỉ đạo của Ban lãnh đạo Tập đoàn.",
+                "tags": [
+                    "CEO & General Management",
+                    "Quản Lý Cấp Cao"
+                ],
+                "keywords": [
+                    "CEO & General Management",
+                    "Quản Lý Cấp Cao",
+                    "Bán lẻ/Bán sỉ",
+                    "Vận Hành",
+                    "Tập Đoàn Vàng Bạc Đá Quý DOJI",
+                    "Hà Nội"
+                ],
+                "locations": "Tòa nhà DOJI, Số 5 Lê Duẩn, Ba Đình, Hà Nội",
+                "welfare": {
+                    "Thưởng": "Thưởng Tết từ 1-5 tháng lương",
+                    "Chăm sóc sức khoẻ": "Được tham gia Khám sức khỏe định kỳ và An toàn lao động",
+                    "Giải thưởng": "Thưởng theo kết quả kinh doanh và nhiều chế độ thưởng đột xuất khác"
+                },
+                "created_at": "19-08-2024",
+                "ended_at": "2024-09-18",
+                "category": "Bán lẻ/Bán sỉ",
+                "years_of_experience": "Không yêu cầu",
+                "level": "Giám Đốc và Cấp Cao Hơn",
+                "skills": [
+                    "Vận Hành"
+                ],
+                "language": "Tiếng Việt",
+                "nationality": "Không hiển thị",
+                "salary_range": "$ 4,000-6,000 /tháng",
+                "url": "https://www.vietnamworks.com/pho-tong-giam-doc-van-hanh--1799549-jv",
+                "unique_id": null
+            },
+            {
+                "id": null,
+                "title": "Kỹ Sư Bảo Mật Hệ Thống Thông Tin",
+                "description": "- Giám sát hoạt động các thiết bị, công cụ và dịch vụ anh ninh bảo mật (Firewall, Antivirus, WSUS, Log, Monitor,...)- Theo dõi định kỳ, cập nhật các bản vá lỗi cho hệ điều hành và ứng dụng- Thực hiện rà quét, kiểm tra, đánh giá các lỗ hổng về an ninh bảo mật cho hệ thống và các ứng dụng- Phối hợp với các đơn vị chức năng để xử lý các vấn đề lỗi phát sinh về an ninh bảo mật hệ thống CNTT- Nghiên cứu, thử nghiệm và cập nhật các kiến thức và công nghệ mới nhằm nâng cao tính bảo mật của hệ thống- Báo cáo và đánh giá thường kỳ mức độ ATTT của hệ thống",
+                "tags": [
+                    "Công Nghệ Thông Tin/Viễn Thông",
+                    "IT Support/Help Desk"
+                ],
+                "keywords": [
+                    "Công Nghệ Thông Tin/Viễn Thông",
+                    "IT Support/Help Desk",
+                    "Thời trang/Trang sức",
+                    "Bảo Mật Server",
+                    "Công Nghệ Thông Tin",
+                    "Bảo Mật Dữ Liệu",
+                    "Security",
+                    "Tập Đoàn Vàng Bạc Đá Quý DOJI",
+                    "Hà Nội"
+                ],
+                "locations": "Tòa nhà DOJI, Số 5 Lê Duẩn, Ba Đình, Hà Nội",
+                "welfare": {
+                    "Thưởng": "Thưởng Tết từ 1-5 tháng lương",
+                    "Chăm sóc sức khoẻ": "Được tham gia Khám sức khỏe định kỳ và An toàn lao động",
+                    "Giải thưởng": "Thưởng theo kết quả kinh doanh và nhiều chế độ thưởng đột xuất khác"
+                },
+                "created_at": "07-08-2024",
+                "ended_at": "2024-09-06",
+                "category": "Thời trang/Trang sức",
+                "years_of_experience": "Không yêu cầu",
+                "level": "Nhân viên",
+                "skills": [
+                    "Bảo Mật Server",
+                    "Công Nghệ Thông Tin",
+                    "Bảo Mật Dữ Liệu",
+                    "Security"
+                ],
+                "language": "Bất kỳ",
+                "nationality": "Không hiển thị",
+                "salary_range": "Thương lượng",
+                "url": "https://www.vietnamworks.com/ky-su-bao-mat-he-thong-thong-tin--1808765-jv",
+                "unique_id": null
+            },
+            {
+                "id": null,
+                "title": "Trưởng Phòng Truyền Thông & Sự Kiện",
+                "description": "- Chịu trách nhiệm về công tác Truyền thông và Sự kiện của Tập đoàn;- Trực tiếp quản lý, điều phối và giám sát kết quả thực hiện công việc của các nhân sự nhóm Content, tổ chức sự kiện, đối ngoại báo chí và Digital MKT;- Lập kế hoạch, triển khai thực hiện và giám sát các hoạt động truyền thông của tập đoàn;- Lên ý tưởng, sản xuất nội dung các ấn phẩm, tài liệu truyền thông phục vụ hoạt động truyền thông;- Theo dõi hiệu ứng và đánh giá kết quả các chương trình truyền thông.- Đề xuất kế hoạch, ý tưởng tổ chức, lên kế hoạch tổ chức và làm việc với các đơn vị nội bộ, đối tác để tổ chức các sự kiện- Thiết lập, duy trì, tạo dựng các mối quan hệ với cơ quan báo chí, truyền thông và trực tiếp xử lý khủng hoảng truyền thông khi có phát sinh- Thực hiện các nhiệm vụ khác theo yêu cầu của cấp quản lý trực tiếp và Ban Lãnh đạo Tập đoàn.",
+                "tags": [
+                    "CEO & General Management",
+                    "Quản Lý Cấp Cao"
+                ],
+                "keywords": [
+                    "CEO & General Management",
+                    "Quản Lý Cấp Cao",
+                    "Bán lẻ/Bán sỉ",
+                    "Truyền Thông",
+                    "Quản Lý Sự Kiện",
+                    "Marketing",
+                    "Quan Hệ Đối Ngoại Báo Chí",
+                    "Lập Kế Hoạch",
+                    "Tập Đoàn Vàng Bạc Đá Quý DOJI",
+                    "Hà Nội"
+                ],
+                "locations": "Tòa nhà DOJI, Số 5 Lê Duẩn, Ba Đình, Hà Nội",
+                "welfare": {
+                    "Thưởng": "Thưởng Tết từ 1-5 tháng lương",
+                    "Chăm sóc sức khoẻ": "Được tham gia Khám sức khỏe định kỳ và An toàn lao động",
+                    "Giải thưởng": "Thưởng theo kết quả kinh doanh và nhiều chế độ thưởng đột xuất khác"
+                },
+                "created_at": "21-08-2024",
+                "ended_at": "2024-09-20",
+                "category": "Bán lẻ/Bán sỉ",
+                "years_of_experience": 3,
+                "level": "Trưởng phòng",
+                "skills": [
+                    "Truyền Thông",
+                    "Quản Lý Sự Kiện",
+                    "Marketing",
+                    "Quan Hệ Đối Ngoại Báo Chí",
+                    "Lập Kế Hoạch"
+                ],
+                "language": "Tiếng Việt",
+                "nationality": "Không hiển thị",
+                "salary_range": "$ 2,000-3,000 /tháng",
+                "url": "https://www.vietnamworks.com/truong-phong-truyen-thong-su-kien--1813898-jv",
+                "unique_id": null
+            },
+            {
+                "id": null,
+                "title": "Phó Giám Đốc Trung Tâm ERP & Đổi Mới Số",
+                "description": "Tham mưu cho Ban lãnh đạo Tập đoàn về mục tiêu, kế hoạch hoạt động của Trung tâm Công nghệ thông tin & Đổi mới số\t\t\tPhê duyệt các đề xuất và kế hoạch làm việc của các Bộ phận trong phạm vi quyền hạn. Đối với những đề xuất vượt quá quyền hạn, chủ động rà soát và kiểm tra, sau đó trình BLĐ phê duyệt.\t\t\tThực hiện xây dựng kế hoạch và đề xuất việc ứng dụng công nghệ/giải pháp mới nhằm đáp ứng các mục tiêu của Chiến lược Chuyển đổi số của Tập đoàn\t\t\tTìm hiểu, tư vấn, cung cấp cho các đơn vị nghiệp vụ thuộc tập đoàn, các giải pháp, các sáng kiến, cải tiến phù hợp trong chuyển đổi số đối với từng đơn vị\t\t\tThực hiện việc kiểm tra, đánh giá các hệ thống (phần mềm ứng dụng, hạ tầng, công nghệ truyền thông) CNTT trong tập đoàn một cách định kỳ\t\t\tTrực tiếp/tổ chức thực hiện hoặc/và phối hợp với ĐV/BP chuyên môn triển khai công tác đổi mới số. Trực tiếp chịu trách nhiệm công tác Đổi mới số theo định hướng chỉ đạo của Ban Lãnh đạo Tập đoàn.\t\t\t",
+                "tags": [
+                    "Công Nghệ Thông Tin/Viễn Thông",
+                    "Chuyển Đổi Số"
+                ],
+                "keywords": [
+                    "Công Nghệ Thông Tin/Viễn Thông",
+                    "Chuyển Đổi Số",
+                    "Thời trang/Trang sức",
+                    "ERP",
+                    "Đổi Mới Quy Trình",
+                    "Tập Đoàn Vàng Bạc Đá Quý DOJI",
+                    "Hà Nội"
+                ],
+                "locations": "Tòa nhà DOJI TOWER, số 5 Lê Duẩn, P. Điện Biên, Q. Ba Đình, Hà Nội",
+                "welfare": {
+                    "Thưởng": "Thưởng Tết từ 1-5 tháng lương",
+                    "Chăm sóc sức khoẻ": "Được tham gia Khám sức khỏe định kỳ và An toàn lao động",
+                    "Giải thưởng": "Thưởng theo kết quả kinh doanh và nhiều chế độ thưởng đột xuất khác"
+                },
+                "created_at": "13-08-2024",
+                "ended_at": "2024-09-12",
+                "category": "Thời trang/Trang sức",
+                "years_of_experience": "Không yêu cầu",
+                "level": "Giám Đốc và Cấp Cao Hơn",
+                "skills": [
+                    "ERP",
+                    "Đổi Mới Quy Trình"
+                ],
+                "language": "Bất kỳ",
+                "nationality": "Không hiển thị",
+                "salary_range": "Thương lượng",
+                "url": "https://www.vietnamworks.com/pho-giam-doc-trung-tam-erp-doi-moi-so-1810567-jv",
+                "unique_id": null
+            },
+            {
+                "id": null,
+                "title": "Trưởng Phòng Kinh Doanh Bán Lẻ Trang Sức Vàng Ta (Lương Từ 40-50 Triệu)",
+                "description": "- Chủ trì khảo sát, nghiên cứu, phân tích đối thủ cạnh tranh để đưa ra sản phẩm, chính sách giá, phát triển sản phẩm, bộ sưu tập mới cho trang sức vàng ta theo đúng chiến lược, phù hợp với thị trường.Phối hợp cùng thiết kế để định hướng sản phẩm phù hợp, dẫn dắt thị trường nhằm đáp ứng tối đa nhu cầu của kinh doanh, thị hiếu của khách hàng. - Điều hành phát triển kinh doanh bán buôn, bán lẻ toàn hệ thống. Đảm bảo doanh số/Lợi nhuận/ Khách hàng theo kế hoạch được giao mảng trang sức vàng ta bán buôn - Cùng các Bộ phận xây dựng khoán doanh số, phân bổ khoán chi tiết, theo dõi việc hoàn thành tiến độ, kiểm soát chi phí hoạt động của TSVT tại các đơn vị kinh doanh- Làm việc các Khối Marketing, Bán lẻ, bán buôn đề xuất các chính sách thúc đẩy kinh doanh, các nội dung, chính sách trong quá trình triển khai.- Làm việc các đối tác bán buôn / bán lẻ để kết hợp thúc đẩy kinh doanh.- Xem xét/Đề xuất/Cải tiến/bổ sung các chính sách, quy trình kinh doanh, công tác tuyển dụng, đào tạo nhân sự... đối ngoại và các Công việc khác- Phân tích chỉ tiêu kinh doanh theo sản phẩm, khách hàng/ dòng hàng đối với hệ thống bán buôn/bán lẻ để có giải pháp thúc đẩy kinh doanh cho mặt hàng doanh số thấp không đạt chỉ tiêu, khu vực yếu kém chưa tiếp cận được.- Các công việc thực hiện theo tần suất: Báo cáo kinh doanh; Xây dựng KH phát triển sản phẩm mới; đào tạo nội bộ ...- Các công việc phát sinh theo chỉ đạo của BLĐ",
+                "tags": [
+                    "Kinh Doanh",
+                    "Bán Hàng/Phát Triển Kinh Doanh"
+                ],
+                "keywords": [
+                    "Kinh Doanh",
+                    "Bán Hàng/Phát Triển Kinh Doanh",
+                    "Thời trang/Trang sức",
+                    "Kinh Doanh Trang Sức",
+                    "Bán Hàng",
+                    "Kiểm Định Đá Quý",
+                    "Phân Tích Thị Trường",
+                    "Phát Triển Kinh Doanh",
+                    "Tập Đoàn Vàng Bạc Đá Quý DOJI",
+                    "Hà Nội"
+                ],
+                "locations": "Tòa nhà DOJI, Số 5 Lê Duẩn, Ba Đình, Hà Nội",
+                "welfare": {
+                    "Thưởng": "Thưởng Tết từ 1-5 tháng lương",
+                    "Chăm sóc sức khoẻ": "Được tham gia Khám sức khỏe định kỳ và An toàn lao động",
+                    "Giải thưởng": "Thưởng theo kết quả kinh doanh và nhiều chế độ thưởng đột xuất khác"
+                },
+                "created_at": "20-08-2024",
+                "ended_at": "2024-09-19",
+                "category": "Thời trang/Trang sức",
+                "years_of_experience": 5,
+                "level": "Trưởng phòng",
+                "skills": [
+                    "Kinh Doanh Trang Sức",
+                    "Bán Hàng",
+                    "Kiểm Định Đá Quý",
+                    "Phân Tích Thị Trường",
+                    "Phát Triển Kinh Doanh"
+                ],
+                "language": "Bất kỳ",
+                "nationality": "Không hiển thị",
+                "salary_range": "$ 1,600-2,000 /tháng",
+                "url": "https://www.vietnamworks.com/truong-phong-kinh-doanh-ban-le-trang-suc-vang-ta-luong-tu-40-50-trieu-1813073-jv",
+                "unique_id": null
+            },
+            {
+                "id": null,
+                "title": "Phó Tổng Giám Đốc/ Giám Đốc Kinh Doanh Bán Lẻ Toàn Quốc",
+                "description": "NOTE: Ứng viên làm việc toàn quốc và ngồi làm việc tại HCMI/ MÔ TẢ CÔNG VIỆC- Quản lý mạng lưới kinh doanh bán lẻ trang sức trên toàn quốc;- Hoạch định và triển khai các hoạt động kinh doanh bán lẻ và chịu trách nhiệm đưa ra các chương trình thúc đẩy doanh số bán lẻ trên toàn hệ  thống;- Quản lý, đo lường, theo dõi, thúc đẩy các chỉ tiêu doanh số, lợi nhuận, chi phí cho từng khu vực, đảm bảo vận hành hiệu quả đáp ứng chỉ tiêu KPI theo kế hoạch;- Phát triển, mở rộng và duy trì hệ thống trung tâm, cửa hàng bán lẻ trên toàn quốc;- Khảo sát, phân tích và nắm bắt kịp thời thông tin của các đối thủ cạnh tranh và thị trường nhằm đề xuất các chiến lược kinh doanh phù hợp cho hệ thống bán lẻ;- Phối hợp đề xuất các chương trình marketing, khuyến mại, xúc tiến bán hàng cho toàn hệ thống bán lẻ;- Thu thập các ý kiến phản hồi của thị trường, khách hàng, phân tích hành vi tiêu dùng để từ đó đưa ra đề xuất hoàn thiện;- Kiểm soát hàng hóa, hình ảnh nhận diện, tài sản và công cụ dụng cụ toàn hệ thống;- Thực hiện các công việc khác theo chỉ đạo của Ban lãnh đạo Tập đoàn.II/ CHẾ ĐỘ ĐÃI NGỘ* Lương chính:- Lương thỏa thuận theo năng lực và kinh nghiệm thực tế của ứng viên và các loại phụ cấp theo yêu cầu công việc…;- Lương tháng 13 bằng từ 1-5 tháng lương thỏa thuận.* Thưởng:- Thưởng định kỳ theo kết quả kinh doanh của Tập đoàn theo quý và theo năm;- Thưởng đột xuất chương trình chung của Tập đoàn;- Thưởng đột xuất theo thành tích đặc biệt và hoặc các sáng kiến cải tiến trong công việc.* Chế độ đãi ngộ khác:- Được hưởng đầy đủ các chế độ phúc lợi cơ bản theo quy định của nhà nước ngay sau kết thúc thời gian thử việc bao gồm BHXH, BHYT, BHTN, chế độ Khám sức khỏe định kỳ...;- Được hưởng đầy đủ các chế độ phúc lợi động viên cho bản thân và người thân theo quy định chung của Tập đoàn như Chế độ thăm hỏi; Mừng các ngày lễ trong năm; Mừng ngày thành lập Tập đoàn; Hiếu - hỉ…;- Được hưởng đầy đủ các chế độ phúc lợi nâng cao (dành cho cấp quản lý) như: Mừng danh hiệu quản lý cuối năm, Bảo hiểm sức khỏe cho bản thân và người thân; Chăm sóc sức khỏe (tập thể thao, tập gym…); Hỗ trợ đi lại; Hỗ trợ mua sắm và sử dụng dịch vụ ưu đãi;- Được tham gia các hoạt động ngoại khóa, văn hóa đoàn thể hấp dẫn dành cho CBNV;- Môi trường làm việc chuyên nghiệp, nhân văn, văn hóa và thân thiện.* Thời gian và môi trường làm việc:- Thời gian làm việc: 8h30 - 17h30 hàng ngày từ Thứ 2 đến hết thứ 6 và 2 ngày thứ 7;",
+                "tags": [
+                    "CEO & General Management",
+                    "Quản Lý Cấp Cao"
+                ],
+                "keywords": [
+                    "CEO & General Management",
+                    "Quản Lý Cấp Cao",
+                    "Thời trang/Trang sức",
+                    "Hệ Thống Chuỗi Bán Lẻ",
+                    "Quản Lý Bán Lẻ",
+                    "Quản trị Kinh doanh",
+                    "Hoạch Định Chiến Lược",
+                    "Phân Tích Rủi Ro",
+                    "Tập Đoàn Vàng Bạc Đá Quý DOJI",
+                    "Hồ Chí Minh"
+                ],
+                "locations": "Ho Chi Minh City, Vietnam",
+                "welfare": {
+                    "Thưởng": "Thưởng theo kết quả kinh doanh hàng tháng/quý/năm",
+                    "Chăm sóc sức khoẻ": "Được tham gia chương trình chăm sóc sức khỏe cao cấp dành cho bản thân và người thân",
+                    "Khác": "Được hưởng đầy đủ các chế độ đãi ngộ khác như BHXH, BHYT, BH thân thể"
+                },
+                "created_at": "19-08-2024",
+                "ended_at": "2024-09-18",
+                "category": "Thời trang/Trang sức",
+                "years_of_experience": 2,
+                "level": "Giám Đốc và Cấp Cao Hơn",
+                "skills": [
+                    "Hệ Thống Chuỗi Bán Lẻ",
+                    "Quản Lý Bán Lẻ",
+                    "Quản trị Kinh doanh",
+                    "Hoạch Định Chiến Lược",
+                    "Phân Tích Rủi Ro"
+                ],
+                "language": "Bất kỳ",
+                "nationality": "Không hiển thị",
+                "salary_range": "Thương lượng",
+                "url": "https://www.vietnamworks.com/pho-tong-giam-doc-giam-doc-kinh-doanh-ban-le-toan-quoc--1800232-jv",
+                "unique_id": null
+            },
+            {
+                "id": null,
+                "title": "Trưởng Nhóm Hành Chính (Nam Giới, Mạnh Quản Lý Xe)",
+                "description": "- Công tác Hành chính Văn thư lưu trữ + Tổ chức thực hiện và quản lý các văn bản đi, các văn bản đến theo đúng chế độ quy định của công tác văn thư;+ Hướng dẫn thể thức văn bản theo đúng quy định hiện hành.+ Quản lý con dấu tuân thủ theo quy định.  + Tổ chức thực hiện công tác lưu trữ và bảo quản các giấy tờ pháp lý của Tập đoàn: Giấy ĐKKD, các Giấy phép, Quyết định, Biên bản,… của cơ quan quản lý nhà nước cấp; Điều lệ Công ty, Quy chế các Hội đồng, các văn bản Hội đồng Quản trị; Các văn bản trong nội bộ Tập đoàn theo phân công;+ Cung cấp các bản trích lục phục vụ nhu cầu chuyên môn của các ĐV/BP.+ Hướng dẫn, kiểm tra việc sắp xếp và quản lý công tác sắp xếp các văn bản/quy định của CN+ Xây dựng và kiểm soát Quy trình vận hành xe (nhân sự - xe - hiệu suất vận hành);+ Quản lý và kiểm soát trực tiếp đội ngũ lái xe về số lượng, chất lượng và hiệu quả công việc;+ Tổ chức, bố trí, sắp xếp phân công công việc cho lái xe đảm bảo đúng phân cấp lãnh đạo, đúng địa điềm, đúng thời điểm, đúng tiến trình;+ Theo dõi, giám sát hiệu quả vận hành: Phê duyệt sổ xe, hạn mức xăng xe, lịch trình; thanh toán chi phí xăng xe, bão dưỡng, sửa chữa, lịch bảo dưỡng và bảo quản sử dụng xe;+ Điều phối xử lý các tình huống phát sinh, các rủi ro về con người, phương tiện, hàng hóa lên phương án kiểm soát rủi ro.- Các công việc khác theo yêu cầu của Trưởng phòng",
+                "tags": [
+                    "Hành Chính Văn Phòng",
+                    "Hành Chính"
+                ],
+                "keywords": [
+                    "Hành Chính Văn Phòng",
+                    "Hành Chính",
+                    "Thời trang/Trang sức",
+                    "Hành Chính",
+                    "Quản Lý Xe",
+                    "Tập Đoàn Vàng Bạc Đá Quý DOJI",
+                    "Hà Nội"
+                ],
+                "locations": "Tòa nhà DOJI TOWER, số 5 Lê Duẩn, P. Điện Biên, Q. Ba Đình, Hà Nội",
+                "welfare": {
+                    "Thưởng": "Thưởng Tết từ 1-5 tháng lương",
+                    "Chăm sóc sức khoẻ": "Được tham gia Khám sức khỏe định kỳ và An toàn lao động",
+                    "Giải thưởng": "Thưởng theo kết quả kinh doanh và nhiều chế độ thưởng đột xuất khác"
+                },
+                "created_at": "07-08-2024",
+                "ended_at": "2024-09-06",
+                "category": "Thời trang/Trang sức",
+                "years_of_experience": "Không yêu cầu",
+                "level": "Nhân viên",
+                "skills": [
+                    "Hành Chính",
+                    "Quản Lý Xe"
+                ],
+                "language": "Bất kỳ",
+                "nationality": "Không hiển thị",
+                "salary_range": "Thương lượng",
+                "url": "https://www.vietnamworks.com/truong-nhom-hanh-chinh-nam-gioi-manh-quan-ly-xe-1808533-jv",
+                "unique_id": null
+            },
+            {
+                "id": null,
+                "title": "Trưởng Ban Vận Hành Kinh Doanh (Mạnh Về Kiểm Toán, Rủi Ro, Phân Tích Số Liệu)",
+                "description": "- Theo dõi các hoạt động kinh doanh hàng ngày của các ĐV/BP Kinh doanh để phát hiện các vấn đề, rủi ro, phân tích nguyên nhân và đưa ra giải pháp hữu hiệu nhằm đảm bảo hiệu quả công tác vận hành kinh doanh; Kiểm tra thực địa công tác vận hành, rà soát hồ sơ chứng từ, kiểm tra tính tuân thủ, rủi ro vận hành tại các TTTS, CN, đơn vị Kinh doanh thành viên trực thuộc Tập đoàn;- Đề xuất và thực hiện các biện pháp kiểm soát nhằm giảm thiểu rủi ro, bao gồm việc thiết lập các quy trình, chính sách và quy định nội bộ liên quan đến hoạt động kinh doanh, phân quyền và phân trách nhiệm rõ ràng, và áp dụng công nghệ thông tin đề giám sát hoạt động kinh doanh;- Lập báo cáo quản trị rủi ro cho từng nghiệp vụ lĩnh vực kinh doanh lên BLĐ;- Tổng hợp và kiểm tra tính chính xác của số liệu kinh doanh từ các đơn vị kinh doanh gồm doanh thu, chi phí, lợi nhuận, số lượng sản phẩm bán ra và các chỉ số hiệu suất khác... - Lưu trữ và quản lý dữ liệu kinh doanh một cách hiệu quả, đảm bảo dữ liệu luôn sẵn sàng cho việc phân tích.- Theo dõi, phân tích và đánh giá hiệu quả kế hoạch kinh doanh thông qua các chỉ số biến động (tăng trưởng doanh thu, số lượng khách hàng tham quan, mua sắm,...) của các đơn vị kinh doanh để tìm ra xu hướng, mô hình và các yếu tố ảnh hưởng đến hiệu quả kinh doanh.- Tổng hợp thông tin, đánh giá và phân tích kế hoạch truyền thông và hiệu quả triển khai thực tế của các chương trình để có những tham vấn kịp thời cho BLĐ trong việc ra quyết định.- Thực hiện các hoạt động nghiên cứu thị trường, phân tích các yếu tố ngoại vi và sử dụng kết quả phân tích để đưa ra các đề xuất và kiến nghị nhằm cải thiện hiệu quả kinh doanh và giảm thiểu rủi ro.",
+                "tags": [
+                    "Ngân Hàng & Dịch Vụ Tài Chính",
+                    "Tuân Thủ & Kiểm Soát Rủi Ro"
+                ],
+                "keywords": [
+                    "Ngân Hàng & Dịch Vụ Tài Chính",
+                    "Tuân Thủ & Kiểm Soát Rủi Ro",
+                    "Thời trang/Trang sức",
+                    "Phân Tích Tài Chính",
+                    "Quản Lý Ngân Sách",
+                    "Đầu Tư",
+                    "Kế Hoạch Dự Báo",
+                    "Tập Đoàn Vàng Bạc Đá Quý DOJI",
+                    "Hà Nội"
+                ],
+                "locations": "Tòa nhà DOJI TOWER, số 5 Lê Duẩn, P. Điện Biên, Q. Ba Đình, Hà Nội",
+                "welfare": {
+                    "Thưởng": "Thưởng Tết từ 1-5 tháng lương",
+                    "Chăm sóc sức khoẻ": "Được tham gia Khám sức khỏe định kỳ và An toàn lao động",
+                    "Giải thưởng": "Thưởng theo kết quả kinh doanh và nhiều chế độ thưởng đột xuất khác"
+                },
+                "created_at": "31-07-2024",
+                "ended_at": "2024-08-30",
+                "category": "Thời trang/Trang sức",
+                "years_of_experience": "Không yêu cầu",
+                "level": "Trưởng phòng",
+                "skills": [
+                    "Phân Tích Tài Chính",
+                    "Quản Lý Ngân Sách",
+                    "Đầu Tư",
+                    "Kế Hoạch Dự Báo"
+                ],
+                "language": "Bất kỳ",
+                "nationality": "Không hiển thị",
+                "salary_range": "Thương lượng",
+                "url": "https://www.vietnamworks.com/truong-ban-van-hanh-kinh-doanh-manh-ve-kiem-toan-rui-ro-phan-tich-so-lieu-1806057-jv",
+                "unique_id": null
+            },
+            {
+                "id": null,
+                "title": "Trưởng Phòng Kế Hoạch và Phân Tích Tài Chính",
+                "description": "- Thực hiện/Kiểm soát/Đôn đốc việc Tổng hợp, phối hợp xây dựng KHKD- Thực hiện/Kiểm soát/Đôn đốc việc Theo dõi tình hình thực hiện kế hoạch (theo tuần, tháng, quý, năm) để đưa ra các dự báo, cảnh báo, thông tin đến BLĐ, các Khối Kinh doanh, các Đơn vị kinh doanh làm cơ sở đánh giá, đưa ra các quyết ịnh kinh doanh: PushSale, điều chỉnh kế hoạch,...- Tham mưu, đề xuất, điều chỉnh, bổ sung kế hoạch kịp thời (nếu cần) khi bối cảnh kinh doanh có những tác động gây ảnh hưởng- Tham mưu, đề xuất cơ chế lập kế hoạch, các công cụ đánh giá, ghi nhận hiệu quả hoạt động, kết quả kinh doanh của các đơn vị- Thực hiện/Kiểm soát/Đôn đốc việc Lập các Báo cáo định kỳ, đột xuất theo chỉ đạo để đánh giá hiệu quả hoạt động của các đơn vị kinh doanh; phân tích, đánh giá kết quả kinh doanh của toàn Tập đoàn cũng như các Khối kinh doanh và các chi nhánh, trung tâm cửa hàng- Thực hiện/Kiểm soát/Đôn đốc việc Phân tích tính hợp lý của các chỉ số kinh doanh, tài chính- Thực hiện/Kiểm soát/Đôn đốc việc Xây dựng, vận hành hệ thống báo cáo thông minh - BI: Xây dựng, quản lý hệ thống báo cáo, cập nhật dữ liệu, chỉnh sửa các Dashboard Báo cáo về KQKD toàn tập đoàn, phục vụ công tác quản trị, họp giao ban, họp HĐKD và đáp ứng các yêu cầu khác của BLĐ, nhu cầu của các Khối kinh doanh- Thực hiện/Kiểm soát/Đôn đốc việc Báo cáo và phân tích theo các nội dung khác phục vụ trực tiếp cho công tác quản lý hoạt động, điều hành kinh doanh và quản lý thực hiện kế hoạch kinh doanh- Thực hiện/Kiểm soát/Đôn đốc việc Cung cấp dữ liệu, số liệu kết quả kinh doanh đến Khối NNL định kỳ hàng tháng để phục vụ công tác tính toán lương, thưởng theo chính sách lương KPIs",
+                "tags": [],
+                "keywords": [
+                    "Banking & Financial Services",
+                    "Financial Analysis & Research",
+                    "Fashion/Jewelry",
+                    "Phân Tích Tài Chính",
+                    "Quản Lý Ngân Sách",
+                    "Đầu Tư",
+                    "Kế Hoạch Dự Báo",
+                    "Tập Đoàn Vàng Bạc Đá Quý DOJI",
+                    "Ha Noi"
+                ],
+                "locations": "Tòa nhà DOJI TOWER, số 5 Lê Duẩn, P. Điện Biên, Q. Ba Đình, Hà Nội",
+                "welfare": {
+                    "Bonus": "Thưởng Tết từ 1-5 tháng lương",
+                    "Healthcare Plan": "Được tham gia Khám sức khỏe định kỳ và An toàn lao động",
+                    "Awards": "Thưởng theo kết quả kinh doanh và nhiều chế độ thưởng đột xuất khác"
+                },
+                "created_at": null,
+                "ended_at": "2024-08-22",
+                "category": null,
+                "years_of_experience": null,
+                "level": null,
+                "skills": [],
+                "language": null,
+                "nationality": null,
+                "salary_range": "Thương lượng",
+                "url": "https://www.vietnamworks.com/truong-phong-ke-hoach-va-phan-tich-tai-chinh--1805601-jv",
+                "unique_id": null
+            },
+            {
+                "id": null,
+                "title": "Thư Ký Ban Lãnh Đạo Tập Đoàn",
+                "description": "- Hỗ trợ trực tiếp cho Ban lãnh đạo trong các công việc hàng ngày, bao gồm: sắp xếp, tổ chức các cuộc họp, lịch gặp đối tác, lịch đi công tác,... Đóng vai trò là thư ký ghi biên bản cuộc họp;- Phối hợp với các cá nhân và bộ phận trong Tập đoàn để thực hiện và hoàn thành công việc được giao;- Giúp Ban lãnh đạo theo dõi việc triển khai, đôn đốc, kiểm tra, tổng hợp và báo cáo kết quả theo dõi việc thực hiện các nhiệm vụ được giao;- Truyền đạt thông tin của Ban lãnh đạo tới các phòng, bộ phận, đơn vị liên quan và nhận thông tin phản hồi cho Ban lãnh đạo thường trực;- Theo dõi và báo cáo tiến độ thực hiện công việc của các phòng, bộ phận, đơn vị theo yêu cầu của Ban lãnh đạo;- Tiếp nhận, đăng ký lịch làm việc của Ban lãnh đạo;- Lên lịch, sắp xếp kế hoạch công tác và thông báo lịch làm việc của Ban lãnh đạo theo tuần/tháng;- Ghi chép và sắp xếp các chương trình, thời gian họp của Ban lãnh đạo và các đối tác. Chuẩn bị cho các chuyến đi công tác của Ban lãnh đạo;- Chuẩn bị tài liệu và phân phối tài liệu tới các thành viên cuộc họp của Ban lãnh đạo ;- Dịch các tài liệu tiếng anh, phiên dịch trong những buổi làm việc với đối tác nước ngoài;- Giải quyết các công việc khác theo yêu cầu chỉ đạo trực tiếp của Ban lãnh đạo.",
+                "tags": [
+                    "Hành Chính Văn Phòng",
+                    "Thư Ký"
+                ],
+                "keywords": [
+                    "Hành Chính Văn Phòng",
+                    "Thư Ký",
+                    "Thời trang/Trang sức",
+                    "Hành Chính Thư Ký",
+                    "Tập Đoàn Vàng Bạc Đá Quý DOJI",
+                    "Hà Nội"
+                ],
+                "locations": "5 Đường Lê Duẩn, Điện Biên, Ba Đình, Hanoi, Vietnam",
+                "welfare": {
+                    "Thưởng": "Thưởng Tết từ 1-5 tháng lương",
+                    "Chăm sóc sức khoẻ": "Được tham gia Khám sức khỏe định kỳ và An toàn lao động",
+                    "Giải thưởng": "Thưởng theo kết quả kinh doanh và nhiều chế độ thưởng đột xuất khác"
+                },
+                "created_at": "30-07-2024",
+                "ended_at": "2024-08-29",
+                "category": "Thời trang/Trang sức",
+                "years_of_experience": "Không yêu cầu",
+                "level": "Nhân viên",
+                "skills": [
+                    "Hành Chính Thư Ký"
+                ],
+                "language": "Bất kỳ",
+                "nationality": "Không hiển thị",
+                "salary_range": "$ 800-1,200 /tháng",
+                "url": "https://www.vietnamworks.com/thu-ky-ban-lanh-dao-tap-doan-1805465-jv",
+                "unique_id": null
+            }
+        ]
+    }
+}
